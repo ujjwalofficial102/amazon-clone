@@ -1,2 +1,2 @@
 # amazon-clone
-this is my first clone of amazon.com
+This is my first clone of amazon.com
